@@ -1,0 +1,3 @@
+csv
+selenium
+webdriver_manager
